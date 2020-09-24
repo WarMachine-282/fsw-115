@@ -3,23 +3,15 @@
         {
             "name":"Egg fried rice",
             "ingredients": [
-                "Cooked chilled rice",
-                "Oyster sauce",
-                "Sesame oil",
-                "Soy sauce",
-                "Scallions",
-                "Carrots",
-                "Eggs",
-                "Garlic",
-                "Butter",
-                "Onions",
-                "Eggs"
+                "Cooked chilled rice", "Oyster sauce", "Sesame oil",
+                "Soy sauce","Scallions","Carrots","Eggs",
+                "Garlic","Butter", "Onions"
             ],
             "description":"A flavorful dish which borders on being an appetizer"
         },
         {
             "name":"Potstickers",
-            "ingredients":[
+            "ingredients": [
                 "6 scallions, the white and green parts separated, both minced",
                 "4 tablespoons peanut oil or vegetable oil",
                 "¼ cup rice vinegar or white vinegar",
@@ -37,13 +29,69 @@
     "cold sandwiches": [
         {
             "name":"Tamago Sando",
-            "ingredients":["mashed boiled eggs","white bread","Japanese mayo"],
+            "ingredients": ["mashed boiled eggs","white bread","Japanese mayo"],
             "description": "Some even argue that it is the best egg sandwich they ever tasted."
         },
         {
             "name":"Katsu Sando",
-            "ingredients":["Japanese milk bread","Crispy juicy pork cutlets","nko breadcrumbs"],
+            "ingredients": ["Japanese milk bread","Crispy juicy pork cutlets","nko breadcrumbs"],
             "description":"Japanese Katsu Sando is a homey kind of sandwich but downright satisfying"
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name":"Banh Mi",
+            "ingredients": [
+                "Cucumber, coriander/cilantro, green onion, chilli",
+                "Very crusty baguettes","Vietnamese cold cuts",
+                "Maggi Seasoning","Pickled carrot","Pate","Mayo "
+            ],
+            "description":"It tastes like a rich ham sandwich with a hit of Asian freshness."
+        },
+        {
+            "name":"Korean Street Food Sandwich",
+            "ingredients": [
+                    "Bread","Eggs","Green Cabbage","Carrot","Onion",
+                    "Ham","Cheese","Butter","Granulated Sugar",
+                    "Ketchup","Mayonnaise","Salt and Pepper"
+                ],
+            "description":"Very popular Korean street food sandwich."
+        }
+    ],
+    "desserts": [
+        {
+            "name":"Egg Waffles",
+            "ingredients": [
+                "all-purpose flour","baking powder","custard powder",
+                "white sugar","tapioca starch","eggs","evaporated milk",
+                "water","vegetable oil","vanilla extract"
+            ],
+            "description":"Eggs puffs are crispy and the egg puffs themselves are light and fluffy."
+        },
+        {
+            "name":"Mochi",
+            "ingredients": [
+                "sweetened red bean paste","sweet rice flour","water",
+                "green tea powder","white sugar","cornstarch"
+            ],
+            "description":"Chinese New Year's snack; soft, slightly sweet, and chewy, this is a wonderful traditional dessert"
+        }
+    ],
+    "drinks": [
+        {
+            "name":"Halo Halo",
+            "ingredients": [
+                "crushed or shaved ice","milk (fresh or evaporated)","sugar","sweetened saba or plantain bananas",
+                "sweetened sweet potatoes","fresh or sweetened langka","sweetened garbanzos or beans",
+                "coconut strips or sweetened macapuno","sweetened red munggo","coconut gel",
+                "sago or tapioca pearls or jelly cut into cubes","pinipig","leche flan","ube jam or ube ice cream"
+            ],
+            "description":"A concoction of various sweet treats that are put together to culminate into one great cold treat."
+        },
+        {
+            "name":"Vietnamese Coffee",
+            "ingredients": ["condensed milk","Cafe Du Monde or Trung Nguyen coffee","boiling water"],
+            "description":"Vietnamese coffee is an intensely strong and sweet coffee, have it hot or iced."
         }
     ]
 }
