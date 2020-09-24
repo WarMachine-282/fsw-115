@@ -1,0 +1,49 @@
+{
+    "appetizers": [
+        {
+            "name":"Egg fried rice",
+            "ingredients": [
+                "Cooked chilled rice",
+                "Oyster sauce",
+                "Sesame oil",
+                "Soy sauce",
+                "Scallions",
+                "Carrots",
+                "Eggs",
+                "Garlic",
+                "Butter",
+                "Onions",
+                "Eggs"
+            ],
+            "description":"A flavorful dish which borders on being an appetizer"
+        },
+        {
+            "name":"Potstickers",
+            "ingredients":[
+                "6 scallions, the white and green parts separated, both minced",
+                "4 tablespoons peanut oil or vegetable oil",
+                "¼ cup rice vinegar or white vinegar",
+                "¾ pound ground pork or other meat",
+                "1 egg, lightly beaten in a bowl",
+                "2 tablespoons minced ginger",
+                "1 tablespoons minced garlic",
+                "2 tablespoons soy sauce",
+                "1 cup minced cabbage",
+                "dumpling wrappers"
+            ],
+            "description":"A small Asian dumpling that is stuffed with a variety of ingredients such as meats or fish, vegetables and seasoning."
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name":"Tamago Sando",
+            "ingredients":["mashed boiled eggs","white bread","Japanese mayo"],
+            "description": "Some even argue that it is the best egg sandwich they ever tasted."
+        },
+        {
+            "name":"Katsu Sando",
+            "ingredients":["Japanese milk bread","Crispy juicy pork cutlets","nko breadcrumbs"],
+            "description":"Japanese Katsu Sando is a homey kind of sandwich but downright satisfying"
+        }
+    ]
+}
