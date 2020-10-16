@@ -1,0 +1,54 @@
+/* Rick and Morty styling */
+body {
+  margin: 0%;
+}
+#rickmorty {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: 300px;
+}
+#starwars {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  height: 300px;
+}
+.header {
+  background-color: black;
+}
+button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  font-family: "Dosis", sans-serif;
+  padding: 15px 32px;
+  margin: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
+}
+#container {
+  text-align: center;
+}
+h1 {
+  color: white;
+  padding: 2%;
+  margin: 0%;
+  text-align: center;
+  font-family: "Dosis", sans-serif;
+  font-weight: 900;
+}
+h2 {
+  margin-bottom: 5%;
+  font-family: "Dosis", sans-serif;
+  font-weight: 800;
+}
+p {
+ text-align: center;
+}
