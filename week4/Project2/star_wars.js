@@ -34,6 +34,8 @@ function star_wars() {
 
 
 
+// Tried to combine two APIS
+
 // var Force = document.getElementById("StarWarsButton");
 // Force.addEventListener("click", star_wars);
 
