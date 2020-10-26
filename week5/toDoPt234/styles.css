@@ -1,0 +1,68 @@
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0%;
+  background-color:#556;
+  background-image: linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
+  linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
+  linear-gradient(30deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
+  linear-gradient(150deg, #445 12%, transparent 12.5%, transparent 87%, #445 87.5%, #445),
+  linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a),
+  linear-gradient(60deg, #99a 25%, transparent 25.5%, transparent 75%, #99a 75%, #99a);
+  background-size:80px 140px;
+  background-position: 0 0, 0 0, 40px 70px, 40px 70px, 0 0, 40px 70px;
+}
+#todoTitle {
+  background-color: #556;
+  text-align: center;
+  padding: 2%;
+}
+span {
+  color: rgb(237, 237, 241);
+  font-size: 50px;
+  font-weight: 800;
+}
+#myForm {
+  margin: 0%;
+  padding: 2%;
+  background-color: #99a;
+  text-align: center;
+}
+input {
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+h3 {
+    padding-bottom: 2%;
+    margin: 0%;
+}
+#inputComplete {
+    padding:10px;
+    border:0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+#toDoItems {
+}
+.todoContainer {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #99a;
+  text-align: center;
+  border: solid 0.1px #445;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  color: black;
+}
+.btn1 {
+  width: 150px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.btn2 {
+  width: 150px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
