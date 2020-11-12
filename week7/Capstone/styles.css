@@ -1,0 +1,118 @@
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0%;
+  padding-bottom: 2%;
+}
+#todoTitle {
+  background-color: rgb(71, 71, 71);
+  text-align: center;
+  padding: 2%;
+}
+span {
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  font-weight: 800;
+}
+#myForm {
+  margin: 0%;
+  padding: 2%;
+  background-color: rgb(122, 122, 129);
+  text-align: center;
+}
+input {
+  border-radius: 10px;
+  padding: 3px;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+.input2 {
+  width: 144px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+h3 {
+  color: rgb(255, 255, 255);
+  padding-bottom: 2%;
+  margin: 0%;
+}
+.todoContainer {
+  border-radius: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgb(170, 161, 153);
+  text-align: center;
+  border: solid 0.1px #445;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  color: black;
+}
+img {
+  margin-top: 25px;
+  border-style: double;
+  border-radius: 10px;
+}
+#btn {
+  border-radius: 10px;
+  border: none;
+  padding: 3px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.btn1 {
+  border-radius: 10px;
+  border: none;
+  width: 150px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+.btn2 {
+  border-radius: 10px;
+  width: 150px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.btn3 {
+  border-radius: 10px;
+  width: 150px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+@media only screen and (max-width: 320px) {
+  .btn2 {
+    margin-right: 20px;
+  }
+  .btn3 {
+    margin-right: 20px;
+  }
+  span {
+    font-size: 20px;
+  }
+  .todoContainer {
+    padding: 10px;
+    width: 250px;
+    background-position: center;
+    text-align: center;
+    border: solid 0.1px #445;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+    color: black;
+  }
+  #toDoItems {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 768px) {
+  span {
+    font-size: 25px;
+  }
+  .todoContainer {
+    width: 300px;
+  }
+}
+@media only screen and (max-width: 940px) {
+}
